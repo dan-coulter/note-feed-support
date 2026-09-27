@@ -48,5 +48,3 @@ Open Settings and tap **Delete all notes**. This permanently removes every note,
 ## Feature requests
 
 Ideas are welcome. Tell us what you're trying to do and where the app gets in the way, not just the feature you have in mind. Knowing the problem often leads to a better fix than the first idea.
-
-Features already being considered include multiple feeds and optional location tags on notes.
